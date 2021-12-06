@@ -1,0 +1,10 @@
+bug report
+bug id - 12331V
+reported by - VL
+topic - do not see price changes in safari browser when u oprn tools bar
+priority - minor
+steps tp reproduce - open main page than open tools bar on safari br
+actual result - do not see price changes
+expected result - good-looking page when it minimize in size
+browser - safari
+url - go.varus.com.ua
