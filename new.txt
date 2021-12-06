@@ -1,0 +1,6 @@
+name Volodymyr
+family name Liutyu
+age 31
+pets none
+salary 600
+
