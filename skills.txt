@@ -1,0 +1,6 @@
+hard skills 
+Bash
+Git
+Theory
+Bug trecking systems
+
